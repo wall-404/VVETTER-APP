@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "acme",
     "name": "vvetter-app",
     "slug": "vvetter-app",
     "version": "1.0.0",
